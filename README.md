@@ -1,5 +1,5 @@
 # Applied-Data-Science-capstone
-## SpaceX Rocket Launch Outcome Prediction
+<h2> 🚀 SpaceX Rocket Launch Outcome Prediction 🚀 </h2>
 ### Objective of project
 SpaceX is an aerospace company that has changed the dynamics of 
 space industry by introducing a reusable rocket by advertising Falcon 
