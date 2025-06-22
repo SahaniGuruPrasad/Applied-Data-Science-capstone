@@ -20,7 +20,7 @@ The Goal of this project is to build a machine learning model which can acurrate
 | 1 | Numpy | Used in Data Manipulation |
 | 2 | Pandas | Used in Data Manipulation and Analysis |
 | 3 | Matplotlib and Seaborn | Used in Data Visualization |
-| 4 | Plotly express and Plotly Dash | Used in Building Interactive Maps and Dashboard |
+| 4 | Folium, Plotly express and Plotly Dash | Used in Building Interactive Maps and Dashboard |
 | 5 | Scikit-Learn | Building and Evaluating Machine Learning Model |
 
 <h3>Phases of the Project 📋 </h3>
